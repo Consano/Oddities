@@ -1,0 +1,1 @@
+- [x] Become proprietors of the teashop 
