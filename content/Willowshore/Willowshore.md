@@ -19,6 +19,7 @@ share_updated: 2024-12-05T01:38:18-08:00
 	- [[Noppera-Bo]]
 	- [[Red Hooded Thatchling]]
 	- [[Thatchling]]
+- [[Items]]
 - **Locations**
 	- [[Canary Inn]]
 	- [[Left Eye of Fumeyoshi]]
