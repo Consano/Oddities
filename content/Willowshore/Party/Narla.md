@@ -3,4 +3,4 @@ title: Narla
 publish: true
 tags: party
 ---
-![[Narla.png]]
+![[Narla.png|500]]
