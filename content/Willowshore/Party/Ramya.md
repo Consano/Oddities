@@ -4,7 +4,7 @@ publish: true
 tags: party
 ---
 ![[Ramya.png]]
-<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Ramya**<br>Full Name: Ramya Demmi<br>Species: Nagaji<br>Occupation: Undertaker <br><br>Relationships:
+<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Ramya**<br>Full Name: Ramyana Hebi Demisperpentus Ila<br>Species: Nagaji<br>Occupation: Undertaker <br><br>Relationships:
 <br><span>&bull;</span> Dead spouse by the name of Kaye Demmi
 <br><span>&bull;</span> Disliked by Granny Hu
 <br><br>
@@ -22,7 +22,8 @@ Capabilities:
 Weaknesses:
 <br><span>&bull;</span> Pregnant
 <br><span>&bull;</span> Emotionally unstable
-<br><span>&bull;</span> Connection to Nalinivati 
+<br><span>&bull;</span> Connection to Nalinivati
+<br><span>&bull;</span> Book of poems
 <br><br>
 Notes: 
 <br>Unpredictable, dangerously so. Seems she has formed an attachment to me. 
