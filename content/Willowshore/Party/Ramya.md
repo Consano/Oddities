@@ -4,7 +4,7 @@ publish: true
 tags: party
 ---
 ![[Ramya.png]]
-<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br>**Subject: Ramya**<br>Full Name: Ramya Demmi<br>Species: Nagaji<br>Occupation: Undertaker <br><br>Relationships:
+<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Ramya**<br>Full Name: Ramya Demmi<br>Species: Nagaji<br>Occupation: Undertaker <br><br>Relationships:
 <br><span>&bull;</span> Dead spouse by the name of Kaye Demmi
 <br><span>&bull;</span> Disliked by Granny Hu
 <br><br>
