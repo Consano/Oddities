@@ -5,10 +5,10 @@ tags: location
 ---
 ## Maps
 ### Regional Maps
-![[public/Images/Willowshore/WIllowshoreMap.png|500]]
+![[public/Images/Willowshore/WIllowshoreMap.png]]
 ![[Screenshot-2024-11-27-at-22-00-36-SeasonofGhosts_PlayersGuide.pdf.png]]
 #### Town Map
-![[public/Images/Willowshore/WillowShoreTown.png|500]]
+![[public/Images/Willowshore/WillowShoreTown.png]]
 ## Table of Contents
 %% Begin Waypoint %%
 - **Enemies**
