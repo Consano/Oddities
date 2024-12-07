@@ -6,11 +6,17 @@ tags:
 ---
 
 ![[HuntingSpider.jpg]]
-> [!info] Big Fucking Spider
-### Weakness
-- Weak to Will saves
-### Resistances
-- None
-### Attacks
-### Other Notes
-- Ambushed around the lake to the east of [[Willowshore]]
+> [!note] Narla
+> <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;">Big Fucking Spider<span/>
+
+> [!done] Weaknesses
+> - Will Saves
+
+> [!warning] Resistances
+> - None
+
+> [!danger]
+> - 
+
+> [!abstract] Notes
+> - Found around the lake to the east of [[Willowshore]]

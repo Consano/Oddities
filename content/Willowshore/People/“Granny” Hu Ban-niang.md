@@ -10,7 +10,9 @@ tags:
 ### Description
 > [!info] Ex-guard captain, leader of the Northridge faction in [[Willowshore]]. Antagonistic to [[“Old” Matsuki Shou]]
 ### Quests
-- [ ] 
+- [x] Find the missing Hunters
+- [x] Investigate the missing [[Ugly Cute]]
 ### Other Notes
 - Gave 5 Health potions
 - Favors Northridge
+- Favors [[Narla]]
