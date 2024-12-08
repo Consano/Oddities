@@ -4,7 +4,7 @@ publish: true
 tags: party
 ---
 ![[Korakai.webp]]
-<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Korakai<br>Full Name: Korakai (the rest is unknown<br>Species: Tengu<br>Occupation: Unknown<br><br>Relationships:
+<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Korakai**<br>Full Name: Korakai (the rest is unknown<br>Species: Tengu<br>Occupation: Unknown<br><br>Relationships:
 <br><span>&bull;</span> Quite favored by Old Matsuki, perhaps old friends
 <br><br>
 Conditions:

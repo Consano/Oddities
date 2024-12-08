@@ -12,32 +12,8 @@ tags: location
 ## Table of Contents
 %% Begin Waypoint %%
 - **Enemies**
-	- [[Cobbleswarm]]
-	- [[Hunting Spider]]
-	- [[Noppera-Bo]]
-	- [[Red Hooded Thatchling]]
-	- [[Thatchling]]
 - [[Items]]
-- **Locations**
-	- [[Canary Inn]]
-	- [[Left Eye of Fumeyoshi]]
-	- [[Old Village Extension]]
-	- [[Right Eye of Fumeyoshi]]
 - **Party**
-	- [[Ataxa]]
-	- [[Galdan]]
-	- [[Korakai]]
-	- [[Narla]]
-	- [[Ramya]]
 - **People**
-	- [[“Granny” Hu Ban-niang]]
-	- [[“Old” Matsuki Shou]]
-	- [[Great Willow]]
-	- [[Hai-Er HA]]
-	- [[Heh Shan-Bao]]
-	- [[Shinzo]]
-	- [[Touh]]
-	- [[Ugly Cute]]
-	- [[Yix]]
 
 %% End Waypoint %%
