@@ -11,6 +11,7 @@ tags:
 
 > [!done] Weaknesses
 > - Will Saves
+> - Not particularly durable (<16HP)
 
 > [!warning] Resistances
 > - Immune to visual attacks
