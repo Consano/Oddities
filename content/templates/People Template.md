@@ -1,5 +1,5 @@
 ---
-title: People Template
+title: <% tp.file.title %>
 publish: false
 ---
 #

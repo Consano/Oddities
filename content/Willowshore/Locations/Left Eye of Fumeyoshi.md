@@ -4,13 +4,12 @@ publish: true
 tags:
   - location
 ---
-### Enemies
-- 
-### NPCs
-- 
-### Items
-- 
-### Resources
-- 
-### Notes
-- Location of the Pearl for the Inn sidequest
+> [!warning] Enemies
+> - 
+
+> [!info] NPCs
+> - 
+
+> [!abstract] Notes
+> Location of the Pearl for the [[Canary Inn]] side quest from [[“Old” Matsuki Shou]]
+

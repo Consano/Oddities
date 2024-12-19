@@ -1,6 +1,6 @@
 ---
 title: Ugly Cute
-publish: false
+publish: true
 tags:
 ---
 

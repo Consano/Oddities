@@ -4,7 +4,7 @@ publish: true
 tags: party
 ---
 ![[Galdan.png]]
-<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Galdan**<br>Full Name: Galdan (surname unknown<br>Species: Human<br>Occupation: Farm Laborer<br><br>Relationships:
+<span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Galdan**<br>Full Name: Galdan (surname unknown)<br>Species: Human<br>Occupation: Farm Laborer<br><br>Relationships:
 <br><span>&bull;</span> The remaining Tan Sugi monks (?)
 <br><span>&bull;</span> Liked by Old Matsuki
 <br><br>

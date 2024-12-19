@@ -1,7 +1,8 @@
 ---
 title: Shinzo
-publish: false
+publish: true
 tags:
+  - allies
 ---
 
 ### Description

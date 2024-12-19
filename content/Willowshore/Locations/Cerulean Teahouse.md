@@ -1,5 +1,5 @@
 ---
-title: Old Village Extension
+title: Cerulean Teahouse
 publish: true
 tags:
   - location
@@ -11,4 +11,6 @@ tags:
 > - 
 
 > [!abstract] Notes
-> - Side quest for [[“Old” Matsuki Shou]]
+> - Owned by the party
+> - [[Narla|Narla's]] house
+

@@ -4,14 +4,11 @@ publish: true
 tags:
   - location
 ---
+> [!warning] Enemies
+> - [[Hunting Spider]]
 
-### Enemies
-- [[Hunting Spider]]
-### NPCs
-- 
-### Items
-- 
-### Resources
-- 
-### Notes
-- 
+> [!info] NPCs
+> - 
+
+> [!abstract] Notes
+> - 
