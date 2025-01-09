@@ -1,8 +1,9 @@
 ---
 title: Mugirou the Rebel
 publish: true
+tags:
+  - enemy
 ---
-#enemy 
 ![[Noppera-Bo Trickster.png]]
 > [!note] Narla
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>

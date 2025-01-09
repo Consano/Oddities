@@ -8,6 +8,7 @@ publish: true
 
 > [!danger]
 > - Base power is related to transformation
+> - Turned his worshippers into [[Kugaptee's Blessing]]
 
 > [!abstract] Notes
 > - Aimed to take over the entire world in the distant past

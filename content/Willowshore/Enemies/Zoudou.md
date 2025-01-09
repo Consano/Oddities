@@ -1,8 +1,10 @@
 ---
 title: Zoudou
 publish: true
+tags:
+  - enemy
 ---
-#enemy 
+![[Zudou.png]]
 
 > [!note] Narla
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;">Apparent leader of the [[Noppera-Bo Grunt|Noppera-Bo]]<span/>
@@ -12,6 +14,7 @@ publish: true
 
 > [!warning] Resistances
 > - Immune to visual attacks
+> - Fortitude Saves
 
 > [!danger]
 > - 

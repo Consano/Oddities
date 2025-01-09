@@ -1,8 +1,9 @@
 ---
 title: Red Hooded Thatchling
 publish: true
+tags:
+  - enemy
 ---
-#enemy 
 ![[Thatchling_RedHooded.png]]
   > [!note] Narla
   > 

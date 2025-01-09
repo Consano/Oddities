@@ -1,8 +1,9 @@
 ---
 title: Rat
 publish: true
+tags:
+  - enemy
 ---
-#enemy 
 ![[RAT.png]]
 ![[rat-spinning.gif]]
 > [!note] Narla

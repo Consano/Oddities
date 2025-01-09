@@ -38,3 +38,24 @@ This spiky, stony fragment shed from Ugly Cute's carapace fits quite comfortably
   
 **Activate** `[two-actions]` command, Interact; **Frequency** once per day; **Effect** You draw upon Ugly Cute's latent spiritual energy to infuse the gauntlet with forceful power. For 1 minute, Ugly Cute's gift gains the advantages of a ghost touchproperty rune and deals an additional 2 force damage on a successful Strike.
 ```
+### Crafter's Eyepiece
+```pf2e-stats
+# Crafter's  Eyepiece
+==Invested== ==Magical== 
+**Price** 60 gp  
+**Usage** worn eyepiece; **Bulk** -  
+
+---
+This rugged metal eyepiece etched with square patterns is designed to be worn over a single eye. Twisting the lens reveals a faint three-dimensional outline of an item you plan to build or repair, with helpful labels on the component parts. You gain a +1 item bonus to Crafting checks. When you Repair an item, increase the Hit Points restored to 10 + 10 per proficiency rank on a success or 15 + 15 per proficiency rank on a critical success.
+```
+### Pendant of the Occult
+```pf2e-stats
+# Pendant of the Occult
+==Invested== ==Occult== 
+**Price** 60 gp  
+**Usage** worn; **Bulk** -  
+
+---
+This amulet is hollow and shaped in the form of an unblinking eye. Its cavity typically holds some fragment of occult text. While wearing the pendant, you gain a +1 item bonus to Occultism checks, and you can cast the guidance cantrip as an occult innate spell.
+```
+![[Pendant_of_the_Occult.webp||250]]

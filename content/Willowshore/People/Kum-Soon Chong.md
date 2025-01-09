@@ -4,11 +4,10 @@ publish: true
 tags:
   - allies
 ---
-#
 ![[Shack Man.png]]
 ### Description
 > [!info] Found in a shack in the [[Logging Camp]] held captive by [[Noppera-Bo Occultist]]
 ### Quests
-- [ ] Find his Son
+- [x] Find his Son [[Kum Meng-seng]]
 ### Other Notes
 - Told the party about [[Kugaptee]]

@@ -1,8 +1,9 @@
 ---
 title: Noppera-Bo Trickster
 publish: true
+tags:
+  - enemy
 ---
-#enemy 
 ![[Noppera-Bo Trickster.png]]
 > [!note] Narla
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;">Noppera-bos appear to be regular humans from behind, and might even resemble someone you know, until they turn to reveal a featureless face.<span/>
