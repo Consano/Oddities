@@ -28,9 +28,9 @@ tags: location
 	- [[Thatchling]]
 	- [[Zoudou]]
 - **Extras**
+	- [[Items]]
 	- [[Main Quests]]
 	- [[Village Stats]]
-- [[Items]]
 - **Locations**
 	- [[Canary Inn]]
 	- [[Cerulean Teahouse]]
