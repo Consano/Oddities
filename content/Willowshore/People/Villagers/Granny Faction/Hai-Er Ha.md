@@ -1,5 +1,5 @@
 ---
-title: Hai-Er HA
+title: Hai-Er Ha
 publish: true
 tags:
   - allies

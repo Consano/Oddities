@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-publish: false
+publish: true
 ---
 > [!warning] Enemies
 > - 

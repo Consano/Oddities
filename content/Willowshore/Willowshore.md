@@ -15,6 +15,7 @@ tags: location
 	- [[Kugaptee]]
 - **Enemies**
 	- [[Cobbleswarm]]
+	- [[Gray Butcher]]
 	- [[Hunting Spider]]
 	- [[Kappa]]
 	- [[Kugaptee's Blessing]]
@@ -26,6 +27,9 @@ tags: location
 	- [[Red Hooded Thatchling]]
 	- [[Thatchling]]
 	- [[Zoudou]]
+- **Extras**
+	- [[Main Quests]]
+	- [[Village Stats]]
 - [[Items]]
 - **Locations**
 	- [[Canary Inn]]
@@ -42,16 +46,22 @@ tags: location
 	- [[Narla]]
 	- [[Ramya]]
 - **People**
-	- [[“Granny” Hu Ban-niang]]
-	- [[“Old” Matsuki Shou]]
 	- [[Great Willow]]
-	- [[Hai-Er HA]]
-	- [[Heh Shan-Bao]]
-	- [[Kum Meng-seng]]
-	- [[Kum-Soon Chong]]
 	- [[Shinzo]]
-	- [[Touh]]
 	- [[Ugly Cute]]
+	- **Villagers**
+		- **Granny Faction**
+			- [[“Granny” Hu Ban-niang]]
+			- [[Hai-Er Ha]]
+			- [[Zheng Peng]]
+		- [[Heh Shan-Bao]]
+		- [[Kum Meng-seng]]
+		- [[Kum-Soon Chong]]
+		- [[Matsu]]
+		- **Matsuki Faction**
+			- [[“Old” Matsuki Shou]]
+			- [[Nadoya Sanmi]]
+		- [[Touh]]
 	- [[Yix]]
 
 %% End Waypoint %%
