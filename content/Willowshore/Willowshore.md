@@ -11,8 +11,6 @@ tags: location
 ![[WillowShoreTown.png]]
 ## Table of Contents
 %% Begin Waypoint %%
-- **BBEG**
-	- [[Kugaptee]]
 - **Enemies**
 	- [[Cobbleswarm]]
 	- [[Hunting Spider]]

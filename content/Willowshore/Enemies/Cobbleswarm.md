@@ -4,6 +4,7 @@ publish: true
 tags:
   - enemy
 ---
+
 ![[Cobbleswarm.png]]
   > [!note] Narla
   > 
