@@ -1,10 +1,10 @@
 ---
-title: <% tp.file.title %>
-publish: false
+title: Gray Butcher
+publish: true
 tags:
   - enemy
 ---
-![[NopperaBo_Grunt.png]]
+![[GrayButcher.png]]
 > [!note] Narla
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
@@ -15,7 +15,7 @@ tags:
 > - 
 
 > [!danger]
-> - 
+> - Grapple Attack
 
 > [!abstract] Notes
 > - 

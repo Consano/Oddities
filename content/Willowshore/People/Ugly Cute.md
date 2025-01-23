@@ -1,7 +1,8 @@
 ---
 title: Ugly Cute
-publish: false
+publish: true
 tags:
+  - allies
 ---
 
 ![[UglyCute.png]]

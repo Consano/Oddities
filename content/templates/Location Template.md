@@ -1,14 +1,12 @@
 ---
-title: Location Template
-publish: false
+title: <% tp.file.title %>
+publish: true
 ---
-### Enemies
-- 
-### NPCs
-- 
-### Items
-- 
-### Resources
-- 
-### Notes
-- 
+> [!warning] Enemies
+> - 
+
+> [!info] NPCs
+> - 
+
+> [!abstract] Notes
+> - 

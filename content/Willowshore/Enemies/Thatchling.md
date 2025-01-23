@@ -4,7 +4,6 @@ publish: true
 tags:
   - enemy
 ---
-
 ![[Thatchling.png]]
   > [!note] Narla
   > 

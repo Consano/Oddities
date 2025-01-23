@@ -4,13 +4,11 @@ publish: true
 tags:
   - location
 ---
-### Enemies
-- 
-### NPCs
-- 
-### Items
-- 
-### Resources
-- 
-### Notes
-- Side quest for [[“Old” Matsuki Shou]]
+> [!warning] Enemies
+> - 
+
+> [!info] NPCs
+> - 
+
+> [!abstract] Notes
+> - Side quest for [[“Old” Matsuki Shou]]
