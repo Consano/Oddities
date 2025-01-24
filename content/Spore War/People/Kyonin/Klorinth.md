@@ -1,5 +1,5 @@
 ---
-title: Torrent
+title: Klorinth
 publish: true
 tags:
   - allies
