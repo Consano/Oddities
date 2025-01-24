@@ -11,5 +11,5 @@ tags: []
 > [!abstract] Notes
 > - Hates Undead.
 > - Emmisary of the Shining Sentinels
-> - Distracted by the Health of Chazlo
+> - Distracted by the Health of [[Clavance Ordranti]]
 
