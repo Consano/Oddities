@@ -1,3 +1,9 @@
+---
+title: Spore War
+publish: true
+tags:
+---
+
 %% Begin Waypoint %%
 - **Enemies**
 	- **BBEG**
