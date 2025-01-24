@@ -15,8 +15,8 @@ tags:
 > - 
 
 > [!danger]
-> - Frightening Aura of 90 ft, #frightened
-> - Fortitude Save within 15 ft, #sickened
+> - Frightening Aura of 90 ft, frightens
+> - Fortitude Save within 15 ft, sickens
 > - Jaw attack
 
 > [!abstract] Notes

@@ -19,7 +19,7 @@ tags:
 > - Immune to non-magical PSB
 
 > [!danger]
-> - Attempts to steal people's shadows to reproduce, #enfeebled
+> - Attempts to steal people's shadows to reproduce, enfeebles
 
 > [!abstract] Notes
 > - 75 HP
