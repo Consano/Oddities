@@ -1,10 +1,10 @@
 ---
-title: <% tp.file.title %>
+title: Tar-Baphon
 publish: false
 tags:
   - enemy
 ---
-![[]]
+![[Whispering_Tyrant.jpg]]
 > [!note] Tenai
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 

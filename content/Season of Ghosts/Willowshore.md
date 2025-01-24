@@ -55,6 +55,7 @@ tags: location
 			- [[Hai-Er Ha]]
 			- [[Zheng Peng]]
 		- [[Heh Shan-Bao]]
+		- [[Hindo Akari]]
 		- [[Kum Meng-seng]]
 		- [[Kum-Soon Chong]]
 		- [[Matsu]]
