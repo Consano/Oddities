@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Druma
 publish: true
 ---
 > [!warning] Enemies

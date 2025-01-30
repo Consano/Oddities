@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Ustalav
 publish: true
 ---
 > [!warning] Enemies

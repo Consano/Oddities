@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Ranger Aromina Yasgon
 publish: true
 tags: []
 ---
@@ -9,5 +9,8 @@ tags: []
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
 > [!abstract] Notes
-> -
+> - Emphasis of free
+> - Has support of the forest martial and Knights of the Everflame Flame
+> - Wants a sense of community between their nations
+> - Antagonistic to [[Molthune]]
 

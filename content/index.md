@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: index
+publish: true
+tags:
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Willowshore#Table of Contents]]

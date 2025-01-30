@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Chalzo Rove
 publish: true
 tags: []
 ---
@@ -9,5 +9,8 @@ tags: []
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
 > [!abstract] Notes
-> -
+> - Profit
+> - Ongoing Campaign against pirates
+> - Antagonistic to [[Razmiran]]
+> - Priest of Kalistrae
 

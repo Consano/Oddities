@@ -1,0 +1,36 @@
+%% Begin Waypoint %%
+- **Enemies**
+	- **BBEG**
+		- [[Tar-Baphon]]
+	- [[Greater Shadows]]
+	- [[Undead Horned Dragon]]
+	- [[Undead Knight, Dragon Mounted]]
+- **Extras**
+	- [[Encarthian Alliance]]
+- **Nations**
+	- [[Druma]]
+	- [[Knights of Lastwall]]
+	- [[Kyonin]]
+	- [[Molthune]]
+	- [[Nirmathas]]
+	- [[Razmiran]]
+	- [[Ustalav]]
+- **People**
+	- **Druma**
+		- [[Chalzo Rove]]
+	- **Knights of Lastwall**
+		- [[Gorion the Glad]]
+	- **Kyonin**
+		- [[Dalamian]]
+		- [[Klorinth]]
+		- [[Queen Telandia Edasseril]]
+	- **Molthun**
+		- [[General Lord Walder Reskit]]
+	- **Nirmathas**
+		- [[Ranger Aromina Yasgon]]
+	- **Razmiran**
+		- [[Alzerius]]
+	- **Ustalav**
+		- [[Clavance Ordranti]]
+
+%% End Waypoint %%

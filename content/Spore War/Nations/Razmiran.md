@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Razmiran
 publish: true
 ---
 > [!warning] Enemies
@@ -10,3 +10,5 @@ publish: true
 
 > [!abstract] Notes
 > - 
+
+Relationship: 1

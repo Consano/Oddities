@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Molthune
 publish: true
 ---
 > [!warning] Enemies
@@ -9,4 +9,4 @@ publish: true
 > - 
 
 > [!abstract] Notes
-> - 
+> - At war with [[Nirmathas]]

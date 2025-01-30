@@ -1,7 +1,8 @@
 ---
-title: <% tp.file.title %>
+title: Torrent
 publish: true
-tags: []
+tags:
+  - allies
 ---
 
 ### Description

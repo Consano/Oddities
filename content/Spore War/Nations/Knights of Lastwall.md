@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Knights of Lastwall
 publish: true
 ---
 > [!warning] Enemies
@@ -9,4 +9,5 @@ publish: true
 > - 
 
 > [!abstract] Notes
-> - 
+> - Hates Undead.
+> - Last wall was the first to fall.

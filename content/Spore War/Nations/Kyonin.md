@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Kyonin
 publish: true
 ---
 > [!warning] Enemies

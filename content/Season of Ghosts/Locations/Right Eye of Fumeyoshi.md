@@ -1,9 +1,11 @@
 ---
-title: <% tp.file.title %>
+title: Right Eye of Fumeyoshi
 publish: true
+tags:
+  - location
 ---
 > [!warning] Enemies
-> - 
+> - [[Hunting Spider]]
 
 > [!info] NPCs
 > - 
