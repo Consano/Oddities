@@ -1,6 +1,6 @@
 ---
-title: Tenai Caldera
-publish: true
+title: Kefra
+publish: false
 tags:
 ---
 
@@ -9,5 +9,5 @@ tags:
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
 
 > [!abstract] Notes
-> -
+> - Assistant of [[Chalzo Rove]]
 

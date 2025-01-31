@@ -24,6 +24,7 @@ tags:
 - **People**
 	- **Druma**
 		- [[Chalzo Rove]]
+		- [[Kefra]]
 	- **Knights of Lastwall**
 		- [[Gorion the Glad]]
 	- **Kyonin**
@@ -40,8 +41,9 @@ tags:
 		- [[Clavance Ordranti]]
 - **The Party**
 	- [[Drazik Sdrazil]]
+	- [[Invoker of Traditions]]
 	- [[Keres]]
+	- [[Siarra Mystrielle]]
 	- [[Tenai Caldera]]
-	- [[Untitled]]
 
 %% End Waypoint %%

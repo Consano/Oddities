@@ -6,8 +6,13 @@ tags: []
 %% Begin Waypoint %%
 - **BBEG**
 	- [[Io Gaka]]
-	- [[Kugaptee]]
 - **Enemies**
+	- [[Amphisbaena]]
+	- [[Arms of the Drowned]]
+	- [[Cacaodemon]]
+	- [[Cobbleswarm]]
+	- [[Gray Butcher]]
+	- [[Hunting Spider]]
 	- [[Kappa]]
 	- [[Kugaptee's Blessing]]
 	- [[Mugirou the Rebel]]
@@ -34,11 +39,7 @@ tags: []
 	- [[Tonsuka Monestary]]
 	- [[Ugly Cute's Resting Place]]
 - **Party**
-	- [[Ataxa]]
-	- [[Galdan]]
 	- [[Korakai]]
-	- [[Narla]]
-	- [[Ramya]]
 - **People**
 	- [[Enko]]
 	- [[Great Willow]]

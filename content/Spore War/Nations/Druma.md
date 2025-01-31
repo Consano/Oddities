@@ -8,6 +8,7 @@ publish: true
 
 > [!info] NPCs
 > - [[Chalzo Rove]]
+> - [[Kefra]]
 
 > [!abstract] Notes
 > - 
