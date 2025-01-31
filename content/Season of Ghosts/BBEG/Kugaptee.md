@@ -13,5 +13,5 @@ publish: true
 > [!abstract] Notes
 > - Aimed to take over the entire world in the distant past
 > - [[Noppera-Bo Occultist]] believe that [[Kugaptee]] will lead them to salvation via the leadership of [[Zoudou]]
-> - Can free people from the river of souls and release [[Willowshore]] from the fog veil
+> - Can free people from the river of souls and release [[Season of Ghosts]] from the fog veil
 > - 

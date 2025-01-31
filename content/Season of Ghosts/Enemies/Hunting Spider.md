@@ -18,4 +18,4 @@ tags:
 > - 
 
 > [!abstract] Notes
-> - Found around the lake to the east of [[Willowshore]]
+> - Found around the lake to the east of [[Season of Ghosts]]

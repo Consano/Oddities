@@ -3,17 +3,14 @@ title: Willowshore
 publish: true
 tags: location
 ---
-## Maps
-### Regional Maps
-![[WIllowshoreMap.png]]
-![[Screenshot-2024-11-27-at-22-00-36-SeasonofGhosts_PlayersGuide.pdf.png]]
-#### Town Map
-![[WillowShoreTown.png]]
-## Table of Contents
 %% Begin Waypoint %%
 - **BBEG**
+	- [[Io Gaka]]
 	- [[Kugaptee]]
 - **Enemies**
+	- [[Amphisbaena]]
+	- [[Arms of the Drowned]]
+	- [[Cacaodemon]]
 	- [[Cobbleswarm]]
 	- [[Gray Butcher]]
 	- [[Hunting Spider]]
@@ -23,8 +20,10 @@ tags: location
 	- [[Noppera-Bo Grunt]]
 	- [[Noppera-Bo Occultist]]
 	- [[Noppera-Bo Trickster]]
+	- [[Nosoi]]
 	- [[Rat]]
 	- [[Red Hooded Thatchling]]
+	- [[Swarm of Leeches]]
 	- [[Thatchling]]
 	- [[Zoudou]]
 - **Extras**
@@ -38,6 +37,7 @@ tags: location
 	- [[Logging Camp]]
 	- [[Old Village Extension]]
 	- [[Right Eye of Fumeyoshi]]
+	- [[Tonsuka Monestary]]
 	- [[Ugly Cute's Resting Place]]
 - **Party**
 	- [[Ataxa]]
@@ -46,6 +46,7 @@ tags: location
 	- [[Narla]]
 	- [[Ramya]]
 - **People**
+	- [[Enko]]
 	- [[Great Willow]]
 	- [[Shinzo]]
 	- [[Ugly Cute]]

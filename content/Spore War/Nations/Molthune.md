@@ -10,4 +10,6 @@ publish: true
 > - [[General Lord Walder Reskit]]
 
 > [!abstract] Notes
-> - At war with [[Nirmathas]]
+> - At war with [[Nirmathas]], marks them as "open revolt" on their maps
+
+Relationship: 1

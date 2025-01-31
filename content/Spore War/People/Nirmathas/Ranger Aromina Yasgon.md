@@ -10,7 +10,7 @@ tags: []
 
 > [!abstract] Notes
 > - Emphasis of free
-> - Has support of the forest martial and Knights of the Everflame Flame
+> - Has support of the forest martial (leader of Nirmathas) and Knights of the Everflame
 > - Wants a sense of community between the nations
 > - Antagonistic to [[Molthune]]
 

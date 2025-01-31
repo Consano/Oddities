@@ -6,7 +6,7 @@ tags: []
 
 ### Description
 > [!note] Tenai
-> <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><span/>
+> <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;">Merchants are always a headache, we are often much too similar for my liking<span/>
 
 > [!abstract] Notes
 > - Profit

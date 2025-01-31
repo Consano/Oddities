@@ -5,9 +5,9 @@ tags:
 ---
 
 %% Begin Waypoint %%
+- **BBEG**
+	- [[Tar-Baphon]]
 - **Enemies**
-	- **BBEG**
-		- [[Tar-Baphon]]
 	- [[Greater Shadows]]
 	- [[Undead Horned Dragon]]
 	- [[Undead Knight of Last Wall]]
@@ -38,5 +38,10 @@ tags:
 		- [[Alzerius]]
 	- **Ustalav**
 		- [[Clavance Ordranti]]
+- **The Party**
+	- [[Drazik Sdrazil]]
+	- [[Keres]]
+	- [[Tenai Caldera]]
+	- [[Untitled]]
 
 %% End Waypoint %%

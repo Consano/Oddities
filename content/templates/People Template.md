@@ -1,7 +1,7 @@
 ---
 title: <% tp.file.title %>
-publish: true
-tags: []
+publish: false
+tags:
 ---
 
 ### Description

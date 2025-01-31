@@ -11,4 +11,5 @@ tags:
 
 > [!abstract] Notes
 > - Cousin of the [[Queen Telandia Edasseril | Queen]] and member of the royal guard.
+> - 
 

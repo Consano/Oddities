@@ -1,6 +1,6 @@
 ---
 title: Tar-Baphon
-publish: false
+publish: true
 tags:
   - enemy
 ---
