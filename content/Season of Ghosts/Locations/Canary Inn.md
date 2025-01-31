@@ -1,8 +1,7 @@
 ---
 title: Canary Inn
 publish: true
-tags:
-  - location
+tags: []
 ---
 > [!warning] Enemies
 > - 

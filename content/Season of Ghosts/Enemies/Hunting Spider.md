@@ -1,8 +1,7 @@
 ---
 title: Hunting Spider
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[HuntingSpider.jpg]]
 > [!note] Narla

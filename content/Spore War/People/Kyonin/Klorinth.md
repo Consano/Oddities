@@ -1,8 +1,7 @@
 ---
 title: Klorinth
 publish: true
-tags:
-  - allies
+tags: []
 ---
 
 ### Description

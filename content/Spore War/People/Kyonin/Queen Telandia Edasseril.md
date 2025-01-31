@@ -1,8 +1,7 @@
 ---
 title: Queen Telandia Edasseril
 publish: true
-tags:
-  - allies
+tags: []
 ---
 ![[Telandia_Edasseril.png.webp]]
 ### Description

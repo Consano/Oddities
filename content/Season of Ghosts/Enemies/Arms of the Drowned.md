@@ -1,8 +1,7 @@
 ---
 title: Arms of the Drowned
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Leech_GiantLeech.png]]
 > [!note] Narla

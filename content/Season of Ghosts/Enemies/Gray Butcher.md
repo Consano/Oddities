@@ -1,8 +1,7 @@
 ---
 title: Gray Butcher
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[GrayButcher.png]]
 > [!note] Narla

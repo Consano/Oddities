@@ -1,8 +1,7 @@
 ---
 title: Amphisbaena
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Amphisbaena.png]]
 > [!note] Tenai

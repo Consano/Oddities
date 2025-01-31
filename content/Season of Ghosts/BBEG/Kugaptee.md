@@ -2,7 +2,6 @@
 title: Kugaptee
 publish: true
 ---
-#enemy 
 > [!note] Narla
 > <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;">An ancient evil<span/>
 

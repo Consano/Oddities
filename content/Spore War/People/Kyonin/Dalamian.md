@@ -1,8 +1,7 @@
 ---
 title: Dalamian
 publish: true
-tags:
-  - allies
+tags: []
 ---
 
 ### Description

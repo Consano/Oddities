@@ -1,8 +1,7 @@
 ---
 title: Cobbleswarm
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Cobbleswarm.png]]
   > [!note] Narla

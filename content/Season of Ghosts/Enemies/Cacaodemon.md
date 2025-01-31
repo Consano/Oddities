@@ -1,8 +1,7 @@
 ---
 title: Cacaodemon
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Cacodaemon.webp]]
 > [!note] Narla

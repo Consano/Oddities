@@ -1,7 +1,7 @@
 ---
 title: Willowshore
 publish: true
-tags: location
+tags: []
 ---
 %% Begin Waypoint %%
 - **BBEG**
