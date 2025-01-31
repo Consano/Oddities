@@ -11,6 +11,6 @@ publish: true
 > - [[Kefra]]
 
 > [!abstract] Notes
-> - 
+> - Trading Goes Crazy
 
 Relationship: 1

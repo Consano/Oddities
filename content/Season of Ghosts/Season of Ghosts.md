@@ -39,7 +39,11 @@ tags: []
 	- [[Tonsuka Monestary]]
 	- [[Ugly Cute's Resting Place]]
 - **Party**
+	- [[Ataxa]]
+	- [[Galdan]]
 	- [[Korakai]]
+	- [[Narla]]
+	- [[Ramya]]
 - **People**
 	- [[Enko]]
 	- [[Great Willow]]
