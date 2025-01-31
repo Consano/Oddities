@@ -1,8 +1,7 @@
 ---
 title: Left Eye of Fumeyoshi
 publish: true
-tags:
-  - location
+tags: []
 ---
 > [!warning] Enemies
 > - 

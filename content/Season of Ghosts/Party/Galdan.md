@@ -1,7 +1,7 @@
 ---
 title: Galdan
 publish: true
-tags: party
+tags: []
 ---
 ![[Galdan.png]]
 <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Galdan**<br>Full Name: Galdan (surname unknown)<br>Species: Human<br>Occupation: Farm Laborer<br><br>Relationships:

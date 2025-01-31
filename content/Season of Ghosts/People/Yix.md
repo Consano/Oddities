@@ -1,8 +1,7 @@
 ---
 title: Yix
 publish: true
-tags:
-  - allies
+tags: []
 ---
 ![[Nosoi.webp]]
 ### Description

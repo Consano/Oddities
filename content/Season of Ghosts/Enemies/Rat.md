@@ -1,8 +1,7 @@
 ---
 title: Rat
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[RAT.png]]
 ![[rat-spinning.gif]]

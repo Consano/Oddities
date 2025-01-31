@@ -1,8 +1,7 @@
 ---
 title: Kum-Soon Chong
 publish: true
-tags:
-  - allies
+tags: []
 ---
 ![[Shack Man.png]]
 ### Description

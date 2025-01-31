@@ -1,8 +1,7 @@
 ---
 title: Noppera-Bo Occultist
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[NopOccultist.png]]
 > [!note] Narla

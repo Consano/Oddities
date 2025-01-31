@@ -1,8 +1,7 @@
 ---
 title: Greater Shadows
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Shadow.webp]]
 > [!note] Tenai

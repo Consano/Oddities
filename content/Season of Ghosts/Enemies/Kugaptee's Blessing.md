@@ -1,8 +1,7 @@
 ---
 title: Kugaptee's Blessing
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Kugaptee'sBlessings.png]]
 > [!note] Narla

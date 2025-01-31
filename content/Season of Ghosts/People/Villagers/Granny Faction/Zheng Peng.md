@@ -1,8 +1,7 @@
 ---
 title: Zheng Peng
 publish: true
-tags:
-  - allies
+tags: []
 ---
 ![[ZhengPeng.png]]
 

@@ -1,8 +1,7 @@
 ---
 title: Hindo Akari
 publish: true
-tags:
-  - allies
+tags: []
 ---
 
 ### Description

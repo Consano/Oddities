@@ -1,8 +1,7 @@
 ---
 title: Zoudou
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Zudou.png]]
 

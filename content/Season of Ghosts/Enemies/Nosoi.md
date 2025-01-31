@@ -1,8 +1,7 @@
 ---
 title: Nosoi
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Nosoi.webp]]
 > [!note] Nosoi

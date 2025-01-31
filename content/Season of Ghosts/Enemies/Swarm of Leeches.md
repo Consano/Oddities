@@ -1,8 +1,7 @@
 ---
 title: Swarm of Leeches
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Leech_GiantLeech.png]]
 > [!note] Tenai

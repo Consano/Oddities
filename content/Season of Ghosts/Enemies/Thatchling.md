@@ -1,8 +1,7 @@
 ---
 title: Thatchling
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Thatchling.png]]
   > [!note] Narla

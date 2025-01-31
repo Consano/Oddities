@@ -1,8 +1,7 @@
 ---
 title: Ugly Cute's Resting Place
 publish: true
-tags:
-  - location
+tags: []
 ---
 > [!warning] Enemies
 > - [[Cobbleswarm]]

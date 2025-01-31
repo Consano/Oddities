@@ -1,8 +1,7 @@
 ---
 title: Noppera-Bo Trickster
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Noppera-Bo Trickster.png]]
 > [!note] Narla

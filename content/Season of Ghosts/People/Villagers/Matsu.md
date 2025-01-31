@@ -1,8 +1,7 @@
 ---
 title: Matsu
 publish: true
-tags:
-  - allies
+tags: []
 ---
 ![[Matsu.png]]
 ### Description

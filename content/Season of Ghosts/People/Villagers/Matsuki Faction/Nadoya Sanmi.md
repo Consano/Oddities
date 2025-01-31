@@ -1,6 +1,6 @@
 ---
 title: Nadoya Sanmi
-publish: false
+publish: true
 ---
 #
 

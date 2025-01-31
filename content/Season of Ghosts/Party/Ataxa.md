@@ -1,7 +1,7 @@
 ---
 title: Ataxa
 publish: true
-tags: party
+tags: []
 ---
 ![[Ataxa.jpg]]
 <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Ataxa**<br>Full Name: Ataxa<br>Species: Tsukumogami<br>Occupation: Alchemist (?)<br><br>Relationships:

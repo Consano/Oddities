@@ -1,9 +1,7 @@
 ---
 title: “Old” Matsuki Shou
 publish: true
-tags:
-  - leader
-  - allies
+tags: []
 ---
 
 ![[OldMatsuki.png]]

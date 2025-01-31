@@ -1,8 +1,7 @@
 ---
 title: Great Willow
 publish: true
-tags:
-  - allies
+tags: []
 ---
 
 ![[Kami_Kodama.png]]

@@ -1,8 +1,7 @@
 ---
 title: Heh Shan-Bao
 publish: true
-tags:
-  - allies
+tags: []
 ---
 
 ### Description

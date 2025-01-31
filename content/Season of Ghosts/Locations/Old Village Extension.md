@@ -1,8 +1,7 @@
 ---
 title: Old Village Extension
 publish: true
-tags:
-  - location
+tags: []
 ---
 > [!warning] Enemies
 > - 

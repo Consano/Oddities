@@ -1,7 +1,7 @@
 ---
 title: Korakai
 publish: true
-tags: party
+tags: []
 ---
 ![[Korakai.webp]]
 <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Korakai**<br>Full Name: Korakai (surname unknown)<br>Species: Tengu<br>Occupation: Unknown<br><br>Relationships:

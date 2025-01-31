@@ -1,8 +1,7 @@
 ---
 title: Logging Camp
 publish: true
-tags:
-  - location
+tags: []
 ---
 > [!warning] Enemies
 > - [[Noppera-Bo Grunt]]

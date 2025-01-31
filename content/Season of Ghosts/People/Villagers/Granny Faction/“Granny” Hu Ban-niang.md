@@ -1,9 +1,7 @@
 ---
 title: “Granny” Hu Ban-niang
 publish: true
-tags:
-  - leader
-  - allies
+tags: []
 ---
 ![[Granny.png]]
 ### Description

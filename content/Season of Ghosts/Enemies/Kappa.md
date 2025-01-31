@@ -1,8 +1,7 @@
 ---
 title: Kappa
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Kappa.png]]
 > [!note] Narla

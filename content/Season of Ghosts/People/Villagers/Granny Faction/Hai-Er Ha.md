@@ -1,8 +1,7 @@
 ---
 title: Hai-Er Ha
 publish: true
-tags:
-  - allies
+tags: []
 ---
 
 ![[Human01.png]]

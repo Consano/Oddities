@@ -1,6 +1,6 @@
 ---
 title: Narla
 publish: true
-tags: party
+tags: []
 ---
 ![[Narla.png|500]]

@@ -1,8 +1,7 @@
 ---
 title: Io Gaka
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[IoGagka.png]]
 > [!note] Tenai

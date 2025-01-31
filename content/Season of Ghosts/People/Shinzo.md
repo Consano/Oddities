@@ -1,8 +1,7 @@
 ---
 title: Shinzo
 publish: true
-tags:
-  - allies
+tags: []
 ---
 
 ### Description

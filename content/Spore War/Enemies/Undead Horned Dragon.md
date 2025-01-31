@@ -1,8 +1,7 @@
 ---
 title: Undead Horned Dragon
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Adult_Horned_Dragon.webp]]
 > [!note] Tenai

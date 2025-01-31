@@ -1,8 +1,7 @@
 ---
 title: Noppera-Bo
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[NopperaBo_Grunt.png]]
 > [!note] Narla

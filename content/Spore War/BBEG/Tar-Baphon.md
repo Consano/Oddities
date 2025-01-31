@@ -1,8 +1,7 @@
 ---
 title: Tar-Baphon
 publish: true
-tags:
-  - enemy
+tags: []
 ---
 ![[Whispering_Tyrant.jpg]]
 > [!note] Tenai

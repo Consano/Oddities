@@ -1,7 +1,7 @@
 ---
 title: Ramya
 publish: true
-tags: party
+tags: []
 ---
 ![[Ramya.png]]
 <span style="font-family: 'Lucida Handwriting'; font-optical-sizing: auto; font-style: normal; word-break: break-word;"><br><br>**Subject: Ramya**<br>Full Name: Ramyana Hebi Demisperpentus Ila<br>Species: Nagaji<br>Occupation: Undertaker <br><br>Relationships:

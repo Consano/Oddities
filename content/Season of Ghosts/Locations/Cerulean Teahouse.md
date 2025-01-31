@@ -1,8 +1,7 @@
 ---
 title: Cerulean Teahouse
 publish: true
-tags:
-  - location
+tags: []
 ---
 > [!warning] Enemies
 > - 
